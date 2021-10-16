@@ -1,0 +1,86 @@
+body{
+    font-family: Arial Narrow;
+}
+h2{
+    color:rgb(204, 0, 0);
+    font-style: italic;
+}
+#nav{
+    font-weight: bold;
+    color:rgb(152, 0, 2);
+}
+#tnx{
+    color:  rgb(174, 20, 25);
+}
+.tb,th,td{
+    border-collapse: collapse;
+    border: 1px solid black;
+    vertical-align: top;
+    font-weight: bold;
+    font-size: small;
+}
+th{
+    text-align: left;
+    background-color:rgb(217, 234, 211) ;
+    padding: 5px;
+}
+td{
+    padding: 5px;
+}   
+.r{
+    color: red;
+    width: 100px;
+}
+#b{
+    color: blue;
+    width: 100px;
+}
+#g{
+    color: green;
+    width: 100px;
+}
+#o{
+    color: orange;
+    width: 150px;
+}
+#dulo{
+    font-style: italic;
+    font-weight: bold;
+}
+#ft{
+    font-weight: bold;
+    margin-left: 100px;
+}
+.ez{
+    color: rgb(44, 84, 97);
+}
+.red{
+    color: red;
+}
+.gre{
+    color: green;
+}
+#blue{
+    color: blue;
+}
+#pink{
+    color: fuchsia;
+}
+#yell{
+    color: yellow;
+}
+#brown{
+    color: brown;
+}
+#org{
+    color: orange;
+}
+#dulo1{
+    color: rgb(81, 124, 183);
+}
+#dulo2{
+    color: red;
+}
+#dulo3{
+    color: maroon;
+}
